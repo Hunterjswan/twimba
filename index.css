@@ -130,3 +130,15 @@ button{
 .hidden{
     display: none;
 }
+
+.delete-btn {
+    border-radius: 3px;
+    width: 10px;
+    height: 15px;
+    margin: 0;
+    padding-left: 3px;
+    padding-bottom: 3px;   
+    justify-self: end;
+    background: lightgray;
+    color: black;
+}
